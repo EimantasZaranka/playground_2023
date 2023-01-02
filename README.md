@@ -6,4 +6,6 @@ In this repository I will be collecting every single learning project and mini s
 
 ## Content
 
-1. ... 
+| Project Number | Start Date | End Date | Project Title |
+| -------------- | ---------- | -------- | ------------- |
+| 1. | 2023-01-02 | - | Video Games Sales Prediction in EU |
